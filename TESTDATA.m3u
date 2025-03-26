@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="Youtube" tvg-id="pokemon" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n2Uy3tktB3-c2RnoqvgVocfPY4duGTlqFzxB5JPyj1QQ0=s160-c-k-c0x00ffffff-no-rj" , pokemon Kids (Youtube)
+https://yt-hls-get-v2.glitch.me/?channel=@pokemonkidstvJP
+
+#EXTINF:-1 group-title="Youtube" tvg-id="baby" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m1anyJYH6oiPJzGSOV4HrwKT9XJK1PEdh533Mm67CbFAk=s160-c-k-c0x00ffffff-no-rj" , Baby Shark (Youtube)
+https://yt-hls-get-v2.glitch.me/?channel=@BabyShark
+
+#EXTINF:-1 group-title="Youtube" tvg-id="news" tvg-logo="https://i.imgur.com/A8uRSTS.png", Weather News (Youtube)
+https://yt-hls-get-v2.glitch.me/?channel=UCNsidkYpIAQ4QaufptQBPHQ
+
+#EXTINF:-1 group-title="Youtube" tvg-id="news" tvg-logo="https://i.imgur.com/R7rYrH5.png" , The Real-time Earthquake Alert (Youtube)
+https://yt-hls-get-v2.glitch.me/?channel=UCUVWoy_rGPdZeUp7jjRHOaQ
+
+#EXTINF:-1 group-title="Youtube" tvg-language="" tvg-logo="https://yt3.googleusercontent.com/l6O9viXT0NUEet41Y2IAjKvuTbULIaErR8UUppXhtNeW7r-Z7hgruiBOxoCJaSQMlbHv4Cii=s120-c-k-c0x00ffffff-no-rj", NTV NEWS (Youtube)
+https://yt-hls-get-v2.glitch.me/?channel=UCuTAXTexrhetbOe3zgskJBQ
+
+#EXTINF:-1 group-title="Youtube" tvg-language="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mK-MLoldc3E_ltVdOwVtTo3EiRSKtKnqHi3EqIIfTkfUU=s160-c-k-c0x00ffffff-no-rj", avex 24/7 Music Live (Youtube)
+https://yt-hls-get-v2.glitch.me/?channel=UC1oPBUWifc0QOOY8DEKhLuQ
+
+#EXTINF:-1 group-title="Youtube" tvg-language="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mpIQ3U-_W4KRzXYgYaQvC6yJhfcAxYA61V_wJUg6s1hww=s176-c-k-c0x00ffffff-no-rj-mo", ANN JapaNews24 (Youtube)
+https://yt-hls-get-v2.glitch.me/?video=coYw-eVU0Ks
