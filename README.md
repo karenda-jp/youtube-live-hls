@@ -16,6 +16,7 @@ my japan server ".jp/youtube/" アクセスしないで下さい。<br/>
 ## ライブ放送 配信者が観れる地域を設定しています。
 > [!TIP]
 > Server設置場所 (US amazon-aws IP)　=アメリカだと思う。(U.S.A.?)<br/>
+> "US" & Your Code "??" 無い場合は観れません。
 
 ### ライブ配信者のページにあるVideoページのソース内を必ず調べて下さい。
 
