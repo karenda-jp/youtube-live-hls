@@ -1,11 +1,10 @@
 # youtube-live-hls　(m3u8 Get for IPTV)
 
 ### 障害情報：現在正常に取得/稼働しております。　(2025-03-27 JST 14:00)
-ここに障害内容を表示するので、このgitをブックマークして下さい。<br/>
-▼ドメインを新規申請しています。アクセス出来る様になるまでお待ちください。<br/>
+ここに障害内容を表示します、このgitをブックマークして下さい。<br/>
 
 ### 以前の私の日本国内のサーバーからのアクセスは遮断されて使えなくなりました。
-my japan server "chew.jp/youtube/" アクセスしないで下さい。<br/>
+my japan server "chew.jp/youtube/" アクセス禁止です。<br/>
 <br/>
 
 ## 必ず最後までお読み下さい。
@@ -26,6 +25,7 @@ my japan server "chew.jp/youtube/" アクセスしないで下さい。<br/>
 >　"watch?v=" が含まれているvideoページの事です。<br/>
 >　チェックツールを使うと簡単かも知れません。 "Video is unrestricted" OK?<br/>
 >　https://www.lenostube.com/en/youtube-country-restriction-checker/
+> ("JP" & Your Code) 無ければ 404 Error.
 
 ### 存在しないIDやチャンネルを指定しない
 > [!WARNING]
@@ -37,20 +37,25 @@ my japan server "chew.jp/youtube/" アクセスしないで下さい。<br/>
 > 不正リクエストを繰り返してサーバー規制が再び掛かる可能性があるのです。<br/>
 
 ## お使いのアプリの設定を必ず確認して下さい。
-> [!WARNING]
+> [!CAUTION]
 > 統計情報/サムネイル/存在確認　等のオプションは全て外してく下さい。<br/>
+> 初期設定でサーバーに迷惑なオプションがデフォルトでONされている事があります。
+> 秒間数十件のリクエスト・・迷惑です。
 
 
 ### ユーチューブのライブ配信からm3u8を探してきます。
 発見出来た場合は302ステータスコードでリダイレクトを掛けます。<br/>
+発見出来ない場合は404応答します。
+
 
 ### DoS Attack Protected.
 送信されてきたデータを厳しくチェックしています。<br/>
 余計な追加オプション等はエラーになります。<br/>
 
-## 最終チェックパス→TEST デプロイ　※既にアクセスが可能です<br/>
-テスト公開中です。<br/>
 
+## 最終チェックパス→TEST デプロイ　※既にアクセスが可能です<br/>
+あくまで自作プログラムの公開テストです。<br/>
+公共の無料サービスではありません。<br/>
 
 
 ## ユーザーデータの収集
@@ -62,7 +67,7 @@ IP,country,User-Agent,AccessTime,videoID<br/>
 > 私のYoutube Channel 任意登録する事。<br/>
 > 記載されたリストを公開する場合は、このgitへのリンクをどこかに入れる事<br/>
 > 個人の研究的 実験プログラムにつき、商用アプリ等への組み込み禁止<br/>
-> Youtube仕様変更への対応が困難な場合は終了する場合があります。<br/>
+> Youtube仕様変更への対応が困難な場合は提供終了する場合があります。<br/>
 
 # -------------------------------------------------------------
 ## 指定できる Command について。
@@ -92,7 +97,7 @@ https://yt-hls-get-v2.x0.to/youtube/?channel=UCNsidkYpIAQ4QaufptQBPHQ
 https://www.youtube.com/channel/UCNsidkYpIAQ4QaufptQBPHQ
 
 
-Channel @Nick offer.
+Channel @Nick Name offer.
 Pokemon Japan. KIDS
 https://yt-hls-get-v2.x0.to/youtube/?channel=@pokemonkidstvJP
 https://www.youtube.com/@pokemonkidstvJP
@@ -117,7 +122,7 @@ https://www.youtube.com/watch?v=tr77RbnfYIU
 　・ youtubeの仕様変更  3～4日頻度で　新プレイヤーで規制掛けてきてます。正直、しんどい、、、
 　   この場合も、404エラーになります。復旧までアクセスしないで下さい。
 　   このgit上で恐らく　障害発生をアナウンスしています。
-　・ キャッシュを搭載しています。1度404の場合は即座に404です。再度取得するのは1～2時間後です。
+　・ キャッシュを搭載しています。再度取得するのは1～2時間後です。
 ~~~
 # ●●●● WARNING ●●●●
 
