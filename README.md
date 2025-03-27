@@ -21,7 +21,7 @@ my japan server "chew.jp/youtube/" アクセスしないで下さい。<br/>
 ### ライブ配信者のページにあるVideoページのソース内を必ず調べて下さい。
 あなたに見えている放送が、JPを許可していなければ表示されません。<br/>
 
-###  ("regionsAllowed" US) が無ければ、放送を探す権利すらありません。
+###  ("regionsAllowed" JP) が無ければ、放送を探す権利すらありません。
 > [!TIP]
 >　"watch?v=" が含まれているvideoページの事です。<br/>
 
