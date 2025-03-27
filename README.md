@@ -1,10 +1,10 @@
 # youtube-live-hls　(m3u8 Get for IPTV)
 
-### 障害情報：現在メンテナンス中　使用できません。(2025-03-27 JST)
+### 障害情報：現在正常に取得/稼働しております。
 ここに障害内容を表示するので、このgitをブックマークして下さい。<br/>
 
 ### 以前の私の日本国内のサーバーからのアクセスは遮断されて使えなくなりました。
-my japan server ".jp/youtube/" アクセスしないで下さい。<br/>
+my japan server "chew.jp/youtube/" アクセスしないで下さい。<br/>
 <br/>
 
 ## 必ず最後までお読み下さい。
@@ -15,10 +15,10 @@ my japan server ".jp/youtube/" アクセスしないで下さい。<br/>
 
 ## ライブ放送 配信者が観れる地域を設定しています。
 > [!TIP]
-> Server設置場所 (US amazon-aws IP)　=アメリカだと思う。(U.S.A.?)<br/>
-> "US" & Your Code "??" 無い場合は観れません。
+> Server設置場所 (JP IP)　日本<br/>
 
 ### ライブ配信者のページにあるVideoページのソース内を必ず調べて下さい。
+あなたに見えている放送が、JPを許可していなければ表示されません。<br/>
 
 ###  ("regionsAllowed" US) が無ければ、放送を探す権利すらありません。
 > [!TIP]
@@ -45,11 +45,11 @@ my japan server ".jp/youtube/" アクセスしないで下さい。<br/>
 送信されてきたデータを厳しくチェックしています。<br/>
 余計な追加オプション等はエラーになります。<br/>
 
-## 重大な問題に気づき、緊急停止しました。
-現在　停止中です。<br/>
+## 最終チェックパス→TEST デプロイ　※既にアクセスが可能です<br/>
+テスト公開中です。<br/>
+ドメインを新規申請しています。
+アクセス出来る様になるまでお待ちください。
 
-
-### ※日本のワンピース　観れなくなったなぁ、、、regionsAllowed content "JP"　ONLY.. (T-T)
 
 ## ユーザーデータの収集
 IP,country,User-Agent,AccessTime,videoID<br/>
@@ -81,7 +81,28 @@ IP,country,User-Agent,AccessTime,videoID<br/>
 
 # -------------------------------------------------------------
 
+以上の事を踏まえて　新サイトはコレだ！！！！　　↓<br/>
+# /////////////////////////////////////////////////////////////////////
+~~~
+Channel ID offer.
+Weathernews Japan.
+https://yt-hls-get-v2.x0.to/youtube/?channel=UCNsidkYpIAQ4QaufptQBPHQ
+https://www.youtube.com/channel/UCNsidkYpIAQ4QaufptQBPHQ
 
+
+Channel @Nick offer.
+Pokemon Japan. KIDS
+https://yt-hls-get-v2.x0.to/youtube/?channel=@pokemonkidstvJP
+https://www.youtube.com/@pokemonkidstvJP
+
+
+Video ID offer.
+J-POP avex 24/7 Music Live
+https://yt-hls-get-v2.x0.to/youtube/?video=tr77RbnfYIU
+https://www.youtube.com/watch?v=tr77RbnfYIU
+
+
+~~~
 # ●●●● WARNING ●●●●
 ~~~
  実際にyoutubeでライブを行っているのに認識されない場合は
