@@ -81,28 +81,7 @@ IP,country,User-Agent,AccessTime,videoID<br/>
 
 # -------------------------------------------------------------
 
-以上の事を踏まえて　新サイトはコレだ！！！！　　↓<br/>
-# //////////////////////////////////////////////
-~~~
-Channel ID offer.
-Weathernews Japan.
-https://yt-hls-get-v2.glitch.me/?channel=UCNsidkYpIAQ4QaufptQBPHQ
-https://www.youtube.com/channel/UCNsidkYpIAQ4QaufptQBPHQ
 
-
-Channel @Nick offer.
-Pokemon Japan. KIDS
-https://yt-hls-get-v2.glitch.me/?channel=@pokemonkidstvJP
-https://www.youtube.com/@pokemonkidstvJP
-
-
-Video ID offer.
-J-POP avex 24/7 Music Live
-https://yt-hls-get-v2.glitch.me/?video=tr77RbnfYIU
-https://www.youtube.com/watch?v=tr77RbnfYIU
-
-
-~~~
 # ●●●● WARNING ●●●●
 ~~~
  実際にyoutubeでライブを行っているのに認識されない場合は
