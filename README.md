@@ -8,9 +8,10 @@
 
 ## 必ず最後までお読み下さい。
 > [!WARNING]
-> Please be sure to read to the end.
-> If you are not fluent in Japanese,
->  please use the translation function of your browser.
+> Please be sure to read to the end.<br/>
+> If you are not fluent in Japanese,<br/>
+>  please use the translation function of your browser.<br/>
+
 <br/>
 
 ## ライブ放送 配信者が観れる地域を設定しています。
@@ -26,17 +27,17 @@
 > [!TIP]
 >　"watch?v=" が含まれているvideoページの事です。<br/>
 >　[チェックツール](https://www.lenostube.com/en/youtube-country-restriction-checker/)を使うと簡単かも知れません。 "Video is unrestricted" OK?<br/>
-> ("JP" & Your Code) 無ければ 404 Error.
-<>br/
+> ("JP" & Your Code) 無ければ 404 Error.<br/>
 
-### 存在しないIDやチャンネルを指定しない
+### 存在しないIDやチャンネルを指定しないで下さい。
 > [!WARNING]
 > 
 > 永久にエラーでプログラムの負荷を高める迷惑行為です。
 > 早急にリスト内から削除して下さい。<br/>
 > リストに存在するだけで勝手に情報を集めるアプリがありますので<br/>
 > 本当に削除して下さい。
-> 不正リクエストを繰り返してサーバー規制が再び掛かる可能性があるのです。<br/>
+> あなたではなく、私が不正リクエストを繰り返してしまうのです。
+> IP規制が再び発生する可能性があります。<br/>
 <br/>
 
 ## お使いのアプリの設定を必ず確認して下さい。
@@ -46,10 +47,10 @@
 > 秒間数十件のリクエスト・・迷惑です。
 <br/>
 
-### ユーチューブのライブ配信からm3u8を探してきます。
+### ユーチューブのライブ配信からm3u8をあなたに代わって探してきます。
 発見出来た場合は302ステータスコードでリダイレクトを掛けます。<br/>
-発見出来ない場合は404応答します。
-<br/>
+発見出来ない場合は404応答します。<br/>
+
 
 ### DoS Attack Protected.
 送信されてきたデータを厳しくチェックしています。<br/>
@@ -57,9 +58,11 @@
 <br/>
 
 ## 最終チェックパス→TEST デプロイ　※既にアクセスが可能です<br/>
-勘違いしないで下さい。<br/>
-個人による"自作PHPプログラムの公開テスト"です。<br/>
-"公共の無料サービス"ではありません。<br/>
+> [!WARNING]
+> 勘違いしないで下さい。<br/>
+> 個人による"自作PHPプログラムの公開テスト"です。<br/>
+> これは"公共の無料サービス"ではありません。<br/>
+
 <br/>
 
 ## ユーザーデータの収集
