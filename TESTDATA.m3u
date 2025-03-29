@@ -1,4 +1,7 @@
 #EXTM3U
+# This File Instructions. -> https://github.com/karenda-jp/youtube-live-hls
+# Video is Unrestricted -> checkOk
+
 #EXTINF:-1 group-title="Youtube" tvg-id="pokemon" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n2Uy3tktB3-c2RnoqvgVocfPY4duGTlqFzxB5JPyj1QQ0=s160-c-k-c0x00ffffff-no-rj" , pokemon Kids (Youtube)
 https://yt-hls-get-v2.x0.to/youtube/?channel=@pokemonkidstvJP
 
