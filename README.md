@@ -126,6 +126,7 @@ https://www.youtube.com/watch?v=tr77RbnfYIU
 # ●●●● WARNING ●●●●
 ~~~
  実際にyoutubeでライブを行っているのに認識されない場合は
+　・ video と channel コマンド指定が間違っていませんか？ 
 　・ プログラムがyoutubeにIP規制されている
 　・ WebブラウザでURLを開いてみて下さい。m3u8ダウンロードされますか？
 　　 ダウンロードされたm3u8をVLCで再生できますか？　出来ない場合もリージョンカントリーエラーです。
