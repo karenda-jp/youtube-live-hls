@@ -1,8 +1,9 @@
 # youtube-live-hls　(m3u8 Get for IPTV)
 
 ### 障害情報：現在正常に取得/稼働しております。
-### Last Check Date -> (2025-03-31 JST 12:00)
+### Last Check Date -> (2025-04-06 JST 20:00)
 ここに障害内容を表示します、このgitをブックマークして下さい。<br/>
+@指定について表記を修正(廃止予定)<br/>
 
 ### 以前の私の日本国内のサーバーからのアクセスは遮断されて使えなくなりました。
 
@@ -95,8 +96,9 @@ IP,country,User-Agent,AccessTime,videoID<br/>
 #### ?channel=@xxxxxx　start (@)　(max 50 characters long) , over to "UC" offer change please.
 > [!NOTE]
 > 　Youtube Channel Nick Name  offer.<br/>
-> 　最大半角50文字相当まで認識可能。<br/>
-> 　超える場合は"UC"から始まる24文字での指定へ変更する事<br/>
+> 　自由に変更が可能な為、非推奨のオプションです。固定値のUC指定を推奨。将来廃止予定
+> 　最大半角24文字まで認識可能。<br/>
+> 　超える場合は"UC"から始まるchIDの指定へ変更する事<br/>
 <br/>
 
 # --------------------------------------------------------
