@@ -5,6 +5,11 @@
 ここに障害内容を表示します、このgitをブックマークして下さい。<br/>
 @でのchannel指定について表記を修正(廃止予定)<br/>
 
+[Hey, "78.177.165.242"!! You Access is It's annoying!](https://yt-hls-get-v2.x0.to/youtube/err-logs/78-177-165-242.txt)<br/>
+channel ID = 24 characters, you input 23 characters,,error!!!!!!!<br/>
+改善されない様ならアナタをブロック致します。<br/>
+
+
 ### 以前の私の日本国内のサーバーからのアクセスは遮断されて使えなくなりました。
 
 ## 必ず最後までお読み下さい。
