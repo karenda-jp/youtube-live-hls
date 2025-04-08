@@ -3,7 +3,7 @@
 ### 障害情報：現在メンテナンス実施中です
 ### Last Check Date -> (2025-04-08 JST 09:00)
 ここに障害内容を表示します、このgitをブックマークして下さい。<br/>
-@でのchannel指定について表記を修正(廃止予定)<br/>
+@でのchannel指定について表記を修正(廃止)<br/>
 
 [Hey, "78.177.165.242"!! You Access is It's annoying!](https://yt-hls-get-v3.x0.to/youtube/err-logs/78-177-165-242.txt)<br/>
 channel ID = 24 characters, you input 23 characters,,error!!!!!!!<br/>
@@ -102,13 +102,6 @@ IP,country,User-Agent,AccessTime,videoID<br/>
 > 　24文字の"UC"から始まる24文字のみを指定<br/>
 <br/>
 
-#### ?channel=@xxxxxx　start (@)　(max 24 characters long) , over to "UC" offer change please.
-> [!NOTE]
-> 　Youtube Channel Nick Name  offer.<br/>
-> 　自由に変更が可能な為、非推奨のオプションです。固定値のUC指定を推奨。将来廃止予定<br/>
-> 　最大半角24文字まで認識可能。<br/>
-> 　超える場合は"UC"から始まるchIDの指定へ変更する事<br/>
-<br/>
 
 # --------------------------------------------------------
 
