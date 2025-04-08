@@ -12,7 +12,8 @@ channel ID = 24 characters, you input 23 characters,,error!!!!!!!<br/>
 改善されない様ならアナタをブロック致します。<br/>
 
 
-### 以前の私の日本国内のサーバーからのアクセスは遮断されて使えなくなりました。
+### このPHPプログラムは「[@K_A_R_E_N](https://www.youtube.com/@K_A_R_E_N)」が販売目的で試験的にテスト運用しています。 使用感等をお試しください。
+<br/>
 
 ## 必ず最後までお読み下さい。
 > [!WARNING]
