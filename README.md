@@ -1,11 +1,11 @@
 # youtube-live-hls　(m3u8 Get for IPTV)
 
-### 障害情報：現在正常に取得/稼働しております。
-### Last Check Date -> (2025-04-06 JST 20:00)
+### 障害情報：現在メンテナンス実施中です
+### Last Check Date -> (2025-04-08 JST 09:00)
 ここに障害内容を表示します、このgitをブックマークして下さい。<br/>
 @でのchannel指定について表記を修正(廃止予定)<br/>
 
-[Hey, "78.177.165.242"!! You Access is It's annoying!](https://yt-hls-get-v2.x0.to/youtube/err-logs/78-177-165-242.txt)<br/>
+[Hey, "78.177.165.242"!! You Access is It's annoying!](https://yt-hls-get-v3.x0.to/youtube/err-logs/78-177-165-242.txt)<br/>
 channel ID = 24 characters, you input 23 characters,,error!!!!!!!<br/>
 改善されない様ならアナタをブロック致します。<br/>
 
@@ -117,19 +117,13 @@ IP,country,User-Agent,AccessTime,videoID<br/>
 ~~~
 Channel ID offer.
 Weathernews Japan.
-https://yt-hls-get-v2.x0.to/youtube/?channel=UCNsidkYpIAQ4QaufptQBPHQ
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCNsidkYpIAQ4QaufptQBPHQ
 https://www.youtube.com/channel/UCNsidkYpIAQ4QaufptQBPHQ
-
-
-Channel @Nick Name offer.
-Pokemon Japan. KIDS
-https://yt-hls-get-v2.x0.to/youtube/?channel=@pokemonkidstvJP
-https://www.youtube.com/@pokemonkidstvJP
 
 
 Video ID offer.
 J-POP avex 24/7 Music Live
-https://yt-hls-get-v2.x0.to/youtube/?video=tr77RbnfYIU
+https://yt-hls-get-v3.x0.to/youtube/?video=tr77RbnfYIU
 https://www.youtube.com/watch?v=tr77RbnfYIU
 
 
