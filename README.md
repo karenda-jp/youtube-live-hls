@@ -3,7 +3,9 @@
 ### 障害情報：現在メンテナンス実施中です
 ### Last Check Date -> (2025-04-08 JST 09:00)
 ここに障害内容を表示します、このgitをブックマークして下さい。<br/>
-@でのchannel指定について表記を修正(廃止)<br/>
+@でのchannel指定について表記を修正(予告通り、廃止になりました。@での指定は出来ません)<br/>
+一部ユーザーの迷惑行為が確認された為、バージョンを変更しました。<br/>
+v2 → v3　アドレスが変更になっています。ご注意下さい。<br/>
 
 [Hey, "78.177.165.242"!! You Access is It's annoying!](https://yt-hls-get-v3.x0.to/youtube/err-logs/78-177-165-242.txt)<br/>
 channel ID = 24 characters, you input 23 characters,,error!!!!!!!<br/>
