@@ -78,7 +78,7 @@ It will be automatically disconnected, but please don't put in anything unnecess
 
 <br/>
 
-## ユーザーデータの収集
+## ユーザーデータの収集/公開への同意
 IP,country,User-Agent,AccessTime,videoID<br/>
 
 
