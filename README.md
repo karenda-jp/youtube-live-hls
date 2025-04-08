@@ -12,7 +12,7 @@ channel ID = 24 characters, you input 23 characters,,error!!!!!!!<br/>
 改善されない様ならアナタをブロック致します。<br/>
 
 
-### このPHPプログラムは「[@K_A_R_E_N](https://www.youtube.com/@K_A_R_E_N)」が販売目的で試験的にテスト運用しています。 使用感等をお試しください。
+### This PHP program is being test-operated by "[@K_A_R_E_N](https://www.youtube.com/@K_A_R_E_N)" for the purpose of sale. Please try it out to see how it works.
 <br/>
 
 ## 必ず最後までお読み下さい。
