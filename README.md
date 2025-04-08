@@ -1,18 +1,22 @@
 # youtube-live-hls　(m3u8 Get for IPTV)
 
 ### 障害情報：現在メンテナンス実施中です
-### Last Check Date -> (2025-04-08 JST 09:00)
+### Last Check Date -> (2025-04-08 JST 12:00)
 ここに障害内容を表示します、このgitをブックマークして下さい。<br/>
 @でのchannel指定について表記を修正(予告通り、廃止になりました。@での指定は出来ません)<br/>
+nicknameへ変更してください。<br/>
 一部ユーザーの迷惑行為が確認された為、バージョンを変更しました。<br/>
 v2 → v3　アドレスが変更になっています。ご注意下さい。<br/>
 
 [Hey, "78.177.165.242"!! You Access is It's annoying!](https://yt-hls-get-v3.x0.to/youtube/err-logs/78-177-165-242.txt)<br/>
-channel ID = 24 characters, you input 23 characters,,error!!!!!!!<br/>
+channel ID = 24 characters, you input 23 characters,,error!!!!<br/>
+why? ".m3u8"??<br/>
+It will be automatically disconnected, but please don't put in anything unnecessary.<br/>
+
 改善されない様ならアナタをブロック致します。<br/>
 
 
-### This PHP program is being test-operated by "[@K_A_R_E_N](https://www.youtube.com/@K_A_R_E_N)" for the purpose of sale. Please try it out to see how it works.
+#### This PHP program is being test-operated by "[@K_A_R_E_N](https://www.youtube.com/@K_A_R_E_N)" for the purpose of sale. Please try it out to see how it works.
 <br/>
 
 ## 必ず最後までお読み下さい。
@@ -105,6 +109,13 @@ IP,country,User-Agent,AccessTime,videoID<br/>
 > 　24文字の"UC"から始まる24文字のみを指定<br/>
 <br/>
 
+#### ?nickname=@xxxxxxxxxxx　start (@)　(MAX 24 characters long) over cut 24.
+> [!NOTE]
+> 　Youtube Nick name offer.<br/>
+> 　最大24文字以下の"@"から始まる文字を指定<br/>
+> 　配信側で自由に設定変更が可能な為、非推奨での指定方法です。<br/>
+> 　エラー頻発の頻度が高いため、この指定は使わないで下さい。<br/>
+<br/>
 
 # --------------------------------------------------------
 
