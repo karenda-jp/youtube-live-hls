@@ -1,7 +1,7 @@
 # youtube-live-hls　(m3u8 Get for IPTV)
 
 ### 障害情報：現在メンテナンス実施中です
-### Last Check Date -> (2025-04-08 JST 12:00)
+### Last Check Date -> (2025-04-09 JST 10:00)
 ここに障害内容を表示します、このgitをブックマークして下さい。<br/>
 @でのchannel指定について表記を修正(予告通り、廃止になりました。@での指定は出来ません)<br/>
 nicknameへ変更してください。<br/>
@@ -12,6 +12,8 @@ v2 → v3　アドレスが変更になっています。ご注意下さい。<b
 channel ID = 24 characters, you input 23 characters,,error!!!!<br/>
 why? ".m3u8"??<br/>
 It will be automatically disconnected, but please don't put in anything unnecessary.<br/>
+・videoID  check grep -> ([a-z_A-Z0-9\-]{11}) 11文字以外は内部的に捨ててるので、動いてる様に見せてるだけ。<br/>
+・過去に類似機能を持ったサイトの名残の様だが当方とは無関係です。リスト修正はしっかり行うようにして下さい。<br/>
 
 改善されない様ならアナタをブロック致します。<br/>
 
