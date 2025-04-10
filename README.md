@@ -2,11 +2,14 @@
 # Youtube "Now on LIVE",,Archived or private videos cannot be played.
 ### 無償提供の終了
 ### Last Check Date -> (2025-04-11 JST 01:00)
-ここに障害内容を表示します、このgitをブックマークして下さい。<br/>
+試用提供は終了致しました。<br/>
+当方のプログラムを日頃よりご使用、ご愛顧いただきありがとうございました。<br/>
+<br/>
+ローカルでホストする事により制限なく取得する事が可能です。<br/>
+ぜひお買い求め下さい。<br/>
+<br/>
 
-ローカルでホストする事により自由に取得する事が可能です。<br/>
-
-#### This PHP program is being test-operated by "[@K_A_R_E_N](https://www.youtube.com/@K_A_R_E_N)" for the purpose of sale. Please try it out to see how it works.
+### This PHP program is being test-operated by "[@K_A_R_E_N](https://www.youtube.com/@K_A_R_E_N)" for the purpose of sale. Please try it out to see how it works.
 <br/>
 
 ## 必ず最後までお読み下さい。
@@ -110,8 +113,6 @@ IP,country,User-Agent,AccessTime,videoID<br/>
 # --------------------------------------------------------
 
 
-
-~~~
 # ●●●● WARNING ●●●●
 ~~~
  実際にyoutubeでライブを行っているのに認識されない場合は
