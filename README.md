@@ -8,7 +8,7 @@ nicknameへ変更してください。<br/>
 一部ユーザーの迷惑行為が確認された為、バージョンを変更しました。<br/>
 v2 → v3　アドレスが変更になっています。ご注意下さい。<br/>
 
-[Hey, "78.177.165.242"!! You Access is It's annoying!](https://yt-hls-get-v3.x0.to/youtube/err-logs/78-177-165-242.txt)<br/>
+[Hey, "78.177.165.242"!! Your Access is It's annoying!](https://yt-hls-get-v3.x0.to/youtube/err-logs/78-177-165-242.txt)<br/>
 channel ID = 24 characters, you input 23 characters,,error!!!!<br/>
 why? ".m3u8"??<br/>
 It will be automatically disconnected, but please don't put in anything unnecessary.<br/>
@@ -22,7 +22,7 @@ It will be automatically disconnected, but please don't put in anything unnecess
 <br/>
 
 ## 必ず最後までお読み下さい。
-> [!WARNING]
+> [!CAUTION]
 > Please be sure to read to the end.<br/>
 > If you are not fluent in Japanese,<br/>
 >  please use the translation function of your browser.<br/>
@@ -44,8 +44,8 @@ It will be automatically disconnected, but please don't put in anything unnecess
 >　[チェックツール](https://www.lenostube.com/en/youtube-country-restriction-checker/)を使うと簡単かも知れません。 "Video is unrestricted" OK?<br/>
 > ("JP" & Your Code) 無ければ 404 Error.<br/>
 
-### 存在しないIDやチャンネルを指定しないで下さい。
-> [!WARNING]
+### 存在しないVideoIDやチャンネルを指定しないで下さい。
+> [!CAUTION]
 > 
 > 永久にエラーでプログラムの負荷を高める迷惑行為です。
 > 早急にリスト内から削除して下さい。<br/>
@@ -73,7 +73,7 @@ It will be automatically disconnected, but please don't put in anything unnecess
 <br/>
 
 ## 最終チェックパス→TEST デプロイ　※既にアクセスが可能です<br/>
-> [!WARNING]
+> [!CAUTION]
 > 勘違いしないで下さい。<br/>
 > 個人による"自作PHPプログラムの公開テスト"です。<br/>
 > これは"公共の無料サービス"ではありません。<br/>
@@ -99,7 +99,7 @@ IP,country,User-Agent,AccessTime,videoID<br/>
 ## 指定できる Command について。 
 #### ?video=xxxxxxxxxxx　(11 characters long) over cut 11.
 > [!NOTE]
-> 　Youtube video ID offer.<br/>
+> 　Youtube LIVE video ID offer.<br/>
 > 　11文字のvideoID のみを指定<br/>
 > 　videoIDは配信側の RE:Try により変わる事があります。
 > 　既に使われていないIDを指定し続ける事は禁止です。
@@ -107,13 +107,13 @@ IP,country,User-Agent,AccessTime,videoID<br/>
 
 #### ?channel=UCxxxxxxxxxxx　start (UC)　(24 characters long) over cut 24.
 > [!NOTE]
-> 　Youtube Channel ID offer.<br/>
+> 　Youtube LIVE Channel ID offer.<br/>
 > 　24文字の"UC"から始まる24文字のみを指定<br/>
 <br/>
 
 #### ?nickname=@xxxxxxxxxxx　start (@)　(MAX 24 characters long) over cut 24.
 > [!NOTE]
-> 　Youtube Nick name offer.<br/>
+> 　Youtube LIVE Nick name offer.<br/>
 > 　最大24文字以下の"@"から始まる文字を指定<br/>
 > 　配信側で自由に設定変更が可能な為、非推奨での指定方法です。<br/>
 > 　エラー頻発の頻度が高いため、この指定は使わないで下さい。<br/>
