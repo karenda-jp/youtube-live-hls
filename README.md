@@ -1,22 +1,10 @@
 # youtube-live-hls　(m3u8 Get for IPTV)
 # Youtube "Now on LIVE",,Archived or private videos cannot be played.
-### 障害情報：現在メンテナンス実施中です
-### Last Check Date -> (2025-04-09 JST 10:00)
+### 無償提供の終了
+### Last Check Date -> (2025-04-11 JST 01:00)
 ここに障害内容を表示します、このgitをブックマークして下さい。<br/>
-@でのchannel指定について表記を修正(予告通り、廃止になりました。@での指定は出来ません)<br/>
-nicknameへ変更してください。<br/>
-一部ユーザーの迷惑行為が確認された為、バージョンを変更しました。<br/>
-v2 → v3　アドレスが変更になっています。ご注意下さい。<br/>
 
-[Hey, "78.177.165.242"!! Your Access is It's annoying!](https://yt-hls-get-v3.x0.to/youtube/err-logs/78-177-165-242.txt)<br/>
-channel ID = 24 characters, you input 23 characters,,error!!!!<br/>
-why? ".m3u8"??<br/>
-It will be automatically disconnected, but please don't put in anything unnecessary.<br/>
-・videoID  check grep -> ([a-z_A-Z0-9\-]{11}) 11文字以外は内部的に捨ててるので、動いてる様に見せてるだけ。<br/>
-・過去に類似機能を持ったサイトの名残の様だが当方とは無関係です。リスト修正はしっかり行うようにして下さい。<br/>
-
-改善されない様ならアナタをブロック致します。<br/>
-
+ローカルでホストする事により自由に取得する事が可能です。<br/>
 
 #### This PHP program is being test-operated by "[@K_A_R_E_N](https://www.youtube.com/@K_A_R_E_N)" for the purpose of sale. Please try it out to see how it works.
 <br/>
