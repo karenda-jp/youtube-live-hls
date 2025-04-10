@@ -1,5 +1,5 @@
 # youtube-live-hls　(m3u8 Get for IPTV)
-
+# Youtube "Now on LIVE",,Archived or private videos cannot be played.
 ### 障害情報：現在メンテナンス実施中です
 ### Last Check Date -> (2025-04-09 JST 10:00)
 ここに障害内容を表示します、このgitをブックマークして下さい。<br/>
@@ -96,7 +96,7 @@ IP,country,User-Agent,AccessTime,videoID<br/>
 
 # --------------------------------------------------------
 
-## 指定できる Command について。
+## 指定できる Command について。 
 #### ?video=xxxxxxxxxxx　(11 characters long) over cut 11.
 > [!NOTE]
 > 　Youtube video ID offer.<br/>
@@ -124,13 +124,13 @@ IP,country,User-Agent,AccessTime,videoID<br/>
 以上の事を踏まえて　新サイトはコレだ！！！！　　↓<br/>
 # ///////////////////////////////////////////////
 ~~~
-Channel ID offer.
+LIVE Channel ID offer.
 Weathernews Japan.
 https://yt-hls-get-v3.x0.to/youtube/?channel=UCNsidkYpIAQ4QaufptQBPHQ
 https://www.youtube.com/channel/UCNsidkYpIAQ4QaufptQBPHQ
 
 
-Video ID offer.
+LIVE Video ID offer.
 J-POP avex 24/7 Music Live
 https://yt-hls-get-v3.x0.to/youtube/?video=tr77RbnfYIU
 https://www.youtube.com/watch?v=tr77RbnfYIU
