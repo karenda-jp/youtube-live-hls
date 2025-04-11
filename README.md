@@ -8,6 +8,12 @@
 ローカルでホストする事により制限なく取得する事が可能です。<br/>
 ぜひお買い求め下さい。<br/>
 <br/>
+機能を絞ったサンプルプログラムについて<br/>
+?channel=UCから始まる24文字を指定する事によりライブ配信のm3u8をGetします。<br/>
+他のコマンドやキャッシュ等は一切ありません。<br/>
+また、同じチャンネルで複数のライブをやっていても「youtubeのデフォルトを取得します」<br/>
+これは、実際にブラウザでyoutubeへアクセスする事で確認が可能です「URLの末尾に/live」を入力する<br/>
+※ソースコードは難読化させて頂いてます。<br/>
 
 ### This PHP program is being test-operated by "[@K_A_R_E_N](https://www.youtube.com/@K_A_R_E_N)" for the purpose of sale. Please try it out to see how it works.
 <br/>
