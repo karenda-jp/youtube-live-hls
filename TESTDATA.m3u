@@ -1,1 +1,7 @@
 #EXTM3U
+# sample.php "local" "youtube" directry,install Example.
+#EXTINF:-1 tvg-id="Youtube" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="live", Weather News (Youtube)
+http://127.0.0.1/youtube/sample.php?channel=UCNsidkYpIAQ4QaufptQBPHQ
+
+#EXTINF:-1 group-title="Youtube" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mK-MLoldc3E_ltVdOwVtTo3EiRSKtKnqHi3EqIIfTkfUU=s160-c-k-c0x00ffffff-no-rj", avex 24/7 Music Live (Youtube)
+http://127.0.0.1/youtube/sample.php?channel=UC1oPBUWifc0QOOY8DEKhLuQ
