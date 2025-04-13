@@ -22,6 +22,8 @@
 個人のyoutube側でのIP-BAN具合により変わる為、当方と関係ありません。<br/>
 製品版ではcookieをセットする事で警告の回避が可能です。<br/>
 ※ソースコードは難読化させて頂いてます。<br/>
+復元すると分かる通り、単純なブラウザをエミュレーションする事で実現しております。<br/>
+動作を考え、想像/企画/試行錯誤/バグ除去等に価値があります。<br/>
 
 ### This PHP program is being test-operated by "[@K_A_R_E_N](https://www.youtube.com/@K_A_R_E_N)" for the purpose of sale. Please try it out to see how it works.
 <br/>
